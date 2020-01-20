@@ -1,4 +1,4 @@
-const short LED = LED_BUILTIN;
+const short LED = 7;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
